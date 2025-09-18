@@ -35,7 +35,7 @@ This project introduces **superposition, measurement, and quantum randomness** i
 ## ⚙️ Setup & Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/quantum-coin-flip.git
+   git clone https://github.com/Guna-Asher/quantum-coin-flip.git
    cd quantum-coin-flip
    ```
 2. (Optional but recommended) Create and activate a virtual environment:
